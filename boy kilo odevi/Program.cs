@@ -64,6 +64,7 @@ namespace boy_kilo_odevi
                 }
 
             }
+            Console.ReadLine();
 
 
 
